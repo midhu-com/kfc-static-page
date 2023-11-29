@@ -1,0 +1,64 @@
+.locationmap
+{
+max-width: 100%;
+}
+.setlocation {
+	background-color:black;
+	 text-align: center;
+	color:white;
+    border-radius: 25px;
+    padding: 10px;
+}
+.container{
+    display: inline-block;
+    padding-top: 10px;
+}
+.kfclogo{
+    
+     
+    padding-left: 100px;  
+}
+.bucket{
+    float: right;
+    display: block;
+    padding-right: 25px;
+    
+}
+.bucketicon{
+    
+    padding-right: 50px;
+    padding-top:  3px;
+    height: 48px;
+    width: 48px;
+   
+}
+.myDiv {
+  padding-top: 4px;
+  background-color: black;
+  text-align: center;
+   color: white;
+   font-family: National 2 Condensed ;
+}	
+.startorder
+{
+	background-color: red;
+  	text-align: center;
+	color:white;
+    border-radius: 60px;
+    padding: 10px;
+   
+}
+.chickenpict
+{
+  display: block;
+  max-width: 99%;
+ max-height: 99%;
+}
+.imgtextleft{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+
+
